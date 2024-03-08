@@ -18,9 +18,9 @@ sequelize.authenticate()
 
 // Routes
 const userRoutes = require('./src/routes/userRoutes');
-const publicationRoutes = require('./src/routes/publicationRoutes');
+const articleRoutes = require('./src/routes/articleRoutes');
 app.use('/api', userRoutes);
-app.use('/api', publicationRoutes);
+app.use('/api', articleRoutes);
 
 app.listen(PORT,()=>{
     console.log('server is running or port  '+PORT);

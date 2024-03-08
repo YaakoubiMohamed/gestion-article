@@ -22,10 +22,10 @@ const sequelize  = new Sequelize(database, user, password, {
 db.sequelize =  sequelize;
 
 const User  = require("./user");
-const Publication = require("./publication")
+const Article = require("./publication")
 
 
-User.hasMany(Publication);
-Publication.belongsTo(User);
+User.hasMany(Article);
+Article.belongsTo(User);
 
 sequelize.sync({force : false});
