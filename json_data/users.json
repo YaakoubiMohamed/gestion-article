@@ -1,0 +1,242 @@
+[
+  {
+    "nom": "Ahmad",
+    "prenom": "Yousef",
+    "email": "ahmad.yousef@example.com",
+    "password": "password123"
+  },
+  {
+    "nom": "Fatima",
+    "prenom": "Mariam",
+    "email": "fatima.mariam@example.com",
+    "password": "securepass"
+  },
+  {
+    "nom": "Ali",
+    "prenom": "Layla",
+    "email": "ali.layla@example.com",
+    "password": "123456"
+  },
+  {
+    "nom": "Nour",
+    "prenom": "Omar",
+    "email": "nour.omar@example.com",
+    "password": "p@ssW0rd"
+  },
+  {
+    "nom": "Hassan",
+    "prenom": "Aisha",
+    "email": "hassan.aisha@example.com",
+    "password": "a1b2c3"
+  },
+  {
+    "nom": "Yassin",
+    "prenom": "Sara",
+    "email": "yassin.sara@example.com",
+    "password": "s3cur3Pwd"
+  },
+  {
+    "nom": "Rami",
+    "prenom": "Lina",
+    "email": "rami.lina@example.com",
+    "password": "pass1234"
+  },
+  {
+    "nom": "Jamil",
+    "prenom": "Noor",
+    "email": "jamil.noor@example.com",
+    "password": "password!"
+  },
+  {
+    "nom": "Malik",
+    "prenom": "Nadia",
+    "email": "malik.nadia@example.com",
+    "password": "nadia123"
+  },
+  {
+    "nom": "Sami",
+    "prenom": "Amira",
+    "email": "sami.amira@example.com",
+    "password": "passw0rd"
+  },
+  {
+    "nom": "Yousef",
+    "prenom": "Hala",
+    "email": "yousef.hala@example.com",
+    "password": "halapass"
+  },
+  {
+    "nom": "Karim",
+    "prenom": "Safia",
+    "email": "karim.safia@example.com",
+    "password": "saf1@pass"
+  },
+  {
+    "nom": "Abbas",
+    "prenom": "Fatemah",
+    "email": "abbas.fatemah@example.com",
+    "password": "pass4u"
+  },
+  {
+    "nom": "Said",
+    "prenom": "Leila",
+    "email": "said.leila@example.com",
+    "password": "l3ilaPwd"
+  },
+  {
+    "nom": "Adnan",
+    "prenom": "Randa",
+    "email": "adnan.randa@example.com",
+    "password": "randa2022"
+  },
+  {
+    "nom": "Khaled",
+    "prenom": "Safia",
+    "email": "khaled.safia@example.com",
+    "password": "p@ssword"
+  },
+  {
+    "nom": "Hussein",
+    "prenom": "Mona",
+    "email": "hussein.mona@example.com",
+    "password": "m0na!pass"
+  },
+  {
+    "nom": "Firas",
+    "prenom": "Layla",
+    "email": "firas.layla@example.com",
+    "password": "layla#123"
+  },
+  {
+    "nom": "Samir",
+    "prenom": "Amani",
+    "email": "samir.amani@example.com",
+    "password": "passw0rd!"
+  },
+  {
+    "nom": "Mustafa",
+    "prenom": "Sana",
+    "email": "mustafa.sana@example.com",
+    "password": "s@napass"
+  },
+  {
+    "nom": "Omar",
+    "prenom": "Layla",
+    "email": "omar.layla@example.com",
+    "password": "omar1234"
+  },
+  {
+    "nom": "Sara",
+    "prenom": "Youssef",
+    "email": "sara.youssef@example.com",
+    "password": "saraPass"
+  },
+  {
+    "nom": "Karim",
+    "prenom": "Nadia",
+    "email": "karim.nadia@example.com",
+    "password": "nadiaPass123"
+  },
+  {
+    "nom": "Amir",
+    "prenom": "Mariam",
+    "email": "amir.mariam@example.com",
+    "password": "mariamPwd"
+  },
+  {
+    "nom": "Lina",
+    "prenom": "Ahmad",
+    "email": "lina.ahmad@example.com",
+    "password": "ahmad2023"
+  },
+  {
+    "nom": "Noura",
+    "prenom": "Rami",
+    "email": "noura.rami@example.com",
+    "password": "nouraPass!"
+  },
+  {
+    "nom": "Hassan",
+    "prenom": "Amina",
+    "email": "hassan.amina@example.com",
+    "password": "amina@123"
+  },
+  {
+    "nom": "Fatima",
+    "prenom": "Khalid",
+    "email": "fatima.khalid@example.com",
+    "password": "khalidPwd"
+  },
+  {
+    "nom": "Yara",
+    "prenom": "Ali",
+    "email": "yara.ali@example.com",
+    "password": "aliPass456"
+  },
+  {
+    "nom": "Rania",
+    "prenom": "Omar",
+    "email": "rania.omar@example.com",
+    "password": "omarRania"
+  },
+  {
+    "nom": "Maha",
+    "prenom": "Tariq",
+    "email": "maha.tariq@example.com",
+    "password": "tariqPass!"
+  },
+  {
+    "nom": "Sami",
+    "prenom": "Hana",
+    "email": "sami.hana@example.com",
+    "password": "samiPass123"
+  },
+  {
+    "nom": "Layla",
+    "prenom": "Hassan",
+    "email": "layla.hassan@example.com",
+    "password": "hassanLayla"
+  },
+  {
+    "nom": "Yousef",
+    "prenom": "Samar",
+    "email": "yousef.samar@example.com",
+    "password": "samarPwd"
+  },
+  {
+    "nom": "Jamil",
+    "prenom": "Farah",
+    "email": "jamil.farah@example.com",
+    "password": "farahPass123"
+  },
+  {
+    "nom": "Aisha",
+    "prenom": "Kareem",
+    "email": "aisha.kareem@example.com",
+    "password": "kareemAisha"
+  },
+  {
+    "nom": "Said",
+    "prenom": "Yasmin",
+    "email": "said.yasmin@example.com",
+    "password": "yasminPwd"
+  },
+  {
+    "nom": "Rami",
+    "prenom": "Salma",
+    "email": "rami.salma@example.com",
+    "password": "salmaRami123"
+  },
+  {
+    "nom": "Hussein",
+    "prenom": "Huda",
+    "email": "hussein.huda@example.com",
+    "password": "hudaHussein"
+  },
+  {
+    "nom": "Sara",
+    "prenom": "Khaled",
+    "email": "sara.khaled@example.com",
+    "password": "khaledSara123"
+  }
+]

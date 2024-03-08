@@ -17,7 +17,9 @@ sequelize.authenticate()
 .catch((err) => { console.error('Unable to connect to the database:', err); });
 
 // Routes
+const userRoutes = require('./src/routes/userRoutes');
 const publicationRoutes = require('./src/routes/publicationRoutes');
+app.use('/api', userRoutes);
 app.use('/api', publicationRoutes);
 
 app.listen(PORT,()=>{

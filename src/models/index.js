@@ -28,4 +28,4 @@ const Publication = require("./publication")
 User.hasMany(Publication);
 Publication.belongsTo(User);
 
-sequelize.sync({force : true});
+sequelize.sync({force : false});
