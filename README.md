@@ -1,6 +1,6 @@
 # Projet Express.js avec Sequelize
 
-Il s'agit d'un projet Express.js structuré pour démontrer l'utilisation de Sequelize ORM pour la base de données MySQL. Le projet inclut des opérations CRUD de base pour gérer les utilisateurs et les publications, ainsi qu'une authentification basée sur JWT.
+Il s'agit d'un projet Express.js structuré pour démontrer l'utilisation de Sequelize ORM pour la base de données MySQL. Le projet inclut des opérations CRUD de base pour gérer les utilisateurs et les articles, ainsi qu'une authentification basée sur JWT.
 
 ## Installation
 
@@ -33,10 +33,10 @@ Il s'agit d'un projet Express.js structuré pour démontrer l'utilisation de Seq
 
 ## Utilisation
 
-- L'application fournit des opérations CRUD pour les utilisateurs et les publications.
+- L'application fournit des opérations CRUD pour les utilisateurs et les articles.
 - L'authentification est mise en œuvre à l'aide de jetons JWT.
 - Les points de terminaison sont définis dans les fichiers de route respectifs.
-- Les données des utilisateurs et des publications peuvent être préremplies à partir de fichiers JSON situés dans le répertoire `json_data/`.
+- Les données des utilisateurs et des articles peuvent être préremplies à partir de fichiers JSON situés dans le répertoire `json_data/`.
 
 ## Points de Terminaison
 
@@ -52,13 +52,13 @@ Il s'agit d'un projet Express.js structuré pour démontrer l'utilisation de Seq
 - `PUT /users/:id` : Mettre à jour les détails de l'utilisateur.
 - `DELETE /users/:id` : Supprimer un utilisateur.
 
-### Publications
+### Articles
 
-- `GET /publications` : Obtenir une liste de publications.
-- `GET /publications/:id` : Obtenir les détails d'une publication spécifique.
-- `POST /publications` : Créer une nouvelle publication.
-- `PUT /publications/:id` : Mettre à jour les détails de la publication.
-- `DELETE /publications/:id` : Supprimer une publication.
+- `GET /articles` : Obtenir une liste de articles.
+- `GET /articles/:id` : Obtenir les détails d'une article spécifique.
+- `POST /articles` : Créer une nouvelle article.
+- `PUT /articles/:id` : Mettre à jour les détails de la article.
+- `DELETE /articles/:id` : Supprimer une article.
 
 ## Auteur
 
